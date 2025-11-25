@@ -10,7 +10,7 @@ Phần mềm có sẵn không đáp ứng nhu cầu của doanh nghiệp? **Vi�
 
 ## Viết Phần Mềm Theo Yêu Cầu Là Gì?
 
-**Viết phần mềm theo yêu cầu** là quá trình thiết kế và phát triển phần mềm dựa trên nhu cầu cụ thể của từng doanh nghiệp. Khác với phần mềm có sẵn, **viết phần mềm theo yêu cầu** được xây dựng để đáp ứng chính xác quy trình vận hành và mục tiêu kinh doanh riêng biệt của bạn.
+**Viết phần mềm theo yêu cầu** là quá trình thiết kế và phát triển phần mềm dựa trên nhu cầu cụ thể của từng doanh nghiệp. Khác với phần mềm có sẵn, **viết phần mềm theo yêu cầu** được xây dựng để đáp ứng chính xác quy trình vận hành và mục tiêu kinh doanh riêng biệt của bạn
 
 ## Khi Nào Nên Viết Phần Mềm Theo Yêu Cầu?
 
